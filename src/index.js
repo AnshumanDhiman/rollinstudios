@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import './fonts/Avenir.otf'
-import "pure-react-carousel/dist/react-carousel.es.css";
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

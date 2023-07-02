@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from "pure-react-carousel";
 import i1 from '../../../assets/images/1.jpg';
+import './car.css'
 /* Install pure-react-carousel using -> npm i pure-react-carousel */
 
 export default function Index() {
