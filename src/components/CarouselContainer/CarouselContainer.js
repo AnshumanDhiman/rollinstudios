@@ -12,8 +12,7 @@ export default function Container() {
         <ACard />
         </div>
         <div className="flex flex-wrap -mx-2 mt-[75px] overflow-hidden sm:-mx-2 md:-mx-2 lg:-mx-2 xl:-mx-2">
-        <p className="text-2xl font-bold">Your screening platform, visuals to the sound, visualizing music</p>
-
+        <p className="text-2xl font-bold">Your visuals, Our music</p>
         <FCard />
         </div>
        

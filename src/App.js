@@ -9,6 +9,7 @@ import Footer from './components/Footer/Footer';
 import BrickLayout from "./components/BrickLayout/BrickLayout";
 import Partners from './components/Partners/Partners';
 
+
 function App() {
   return (
     <>
