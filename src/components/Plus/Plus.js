@@ -3,7 +3,7 @@ import './Plus.css'
 import { useEffect, useState } from 'react';
 import { useInView } from 'react-intersection-observer';
 import CountUp from 'react-countup';
-import pimg from '../../assets/images/Stills-2/6.jpg'
+import pimg from '../../assets/images/22.jpg'
 
 
 export default function Plus() {
@@ -114,7 +114,7 @@ export default function Plus() {
 
       <div>
       <img  alt="" />
-        <img src="img/dummy_image/2.jpg"
+        <img src={pimg}
           class="w-[30rem] shadow-lg dark:shadow-black/20" alt="" />
       </div>
     </div>

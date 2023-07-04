@@ -1,11 +1,11 @@
 import styles from "./BrickLayout.module.css"
-
+import image from '../../assets/images/22.jpg'
 const BrickLayout = () => {
   return (
     <div className={styles["brick-layout"]}>
       <div className={styles["brick-column"]}>
         <img src="img/dummy_image/1.jpg" alt="" />
-        <img src="img/dummy_image/2.jpg" alt="" />
+        <img src={image} alt="" />
         <img src="img/dummy_image/3.jpg" alt="" />
       </div>
       <div className={styles["brick-column"]}>
